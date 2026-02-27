@@ -42,7 +42,7 @@ This project uses health indicators (HbA1c, blood glucose, BMI, age, etc.) to pr
 
 ## Notebook
 
-View the full analysis: [`diabetes_ml_note.ipynb`](./diabetes_ml_note.ipynb)
+View the full analysis: [`diabetes-ml-note.ipynb`](./diabetes-ml-note.ipynb)
 
 Or run interactively on Kaggle: [https://www.kaggle.com/code/abhayramasamy/diabetes-ml-note]
 
